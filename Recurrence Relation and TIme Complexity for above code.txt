@@ -1,0 +1,10 @@
+Reccurence relation for the above code
+
+
+T(n) = 2T(n/2) + n for divide and conquer approach used in above code
+
+where a,b = 2,2
+
+Solving above equation by Master's Theorem
+
+We get required Time complexity as : O(nlogn)
